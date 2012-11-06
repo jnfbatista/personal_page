@@ -1,22 +1,16 @@
 body {
-	height:100%;
-	background: gray url("DSC00879.JPG") top left;
-	font-family: sans-serif;
-}
-
-div {
-	border-radius: 5px 5px 5px 5px;
-	-moz-border-radius: 5px 5px 5px 5px;
-	background: white;
-	opacity: 0.80;
+	background: gray url("bg_texture.png") top left;
+	font-family: 'Share Tech Mono', sans-serif;
 }
 
 h1 {
+	text-align: center;
 	width:auto;
 }
 
 p {
-	padding-left: 5px;
+	font-size: 2em;
+	text-align: center;
 }
 
 .clear {
@@ -35,20 +29,14 @@ p {
 	}
 
 #wrapper {
-	position: absolute;
-	width: 90%;
+	width: 80%;
 	height: 90%;
-	margin-right: 5%;
-	margin-left: 5%;
-	background: none;
+	margin-right: auto; 
+	margin-left: auto;
 }
 
 #header {
-	margin-left:0px;
-	margin-right:auto;
-	/*text-align: right;
-	border-radius: 10px 0px 0px 10px;*/
-	display: none;
+	margin-top: 1em;
 }
 
 #header h1 {
@@ -93,4 +81,8 @@ p {
 
 #main p {
 	opacity=1.0;
+}
+
+#bio {
+
 }

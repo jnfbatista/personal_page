@@ -4,41 +4,29 @@
 	<head>
 		<title>João Batista</title>
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+		<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
 		<script type="text/javascript" src="js/jquery.js" ></script>
 		<script type="text/javascript" src="js/magic.js" ></script>
 	</head>
 	<body>
 		<div id="wrapper" >
-			<div id="header" class="shadow">
-				<div align="right">
-					<h1 style="margin-right:7%;">João Batista</h1>
-				</div>
+			<div id="header">
+				<h1>João Batista</h1>
 			</div>
-				<div id="main" style="display:none" class="shadow">
-					<div id="content" align="justify">
-					</div>
-				</div>
-			<div id="menu" align="center" class="shadow">
+			<div id="bio">
+				<p>
+				Hello! My name is João Batista and I'm a coder!
+				</p>
+				<p>
+					
+				</p>
+			</div>
+			<!--div id="menu" >
 				<a onclick="update('main_pt');" >Bio</a>
-				<!--a
-				onclick="update('projects');">Projectos</a-->
 				<a onclick="update('cv');">Curriculum Vitæ</a>
 				<a onclick="update('contacts');">Contactos</a>
-			</div>
+			</div-->
 		</div>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$('#header').fadeIn('2000ms', function() {
-						$('#menu').fadeIn('1000ms');	
-					});
-				});
-			$("#menu a").click(function () { 
-				$("#menu a").each(function() {
-					$(this).removeClass('selected');
-					});
-				$(this).addClass('selected');
-			           });
-		</script>
 	</body>
 </html>
