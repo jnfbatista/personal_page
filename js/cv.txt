@@ -1,0 +1,6 @@
+<h2>Curriculum Vitæ:</h2>
+<p>
+Encontra-se aqui o meu Curriculum Vitæ para consulta detalhada:
+</p><p>
+<a href="http://paginas.fe.up.pt/~ei05031/cv_pt.pdf">Português</a>
+</p>

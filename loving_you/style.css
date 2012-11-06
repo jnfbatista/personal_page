@@ -1,0 +1,30 @@
+body {
+    background: url('bg_texture.png') top left repeat;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: #CC0000;
+    font-size: 4em;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#love {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#love_speech {
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    text-align:justify; 
+    font-family: 'Average Sans', sans-serif;
+}
+
+
+#slider {
+    width:800px;
+    height:600px;
+}

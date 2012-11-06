@@ -1,0 +1,24 @@
+<h2>Bio:</h2>
+
+<div class="left" style="float:left;width:25%;">
+<img
+src="http://paginas.fe.up.pt/~ei05031/me.jpg"></img>
+</div>
+
+<div  style="float:right;width:70%;">
+<p>O meu nome é João Batista e sou aluno do Mestrado Integrado em
+Engenharia Informática e Computação (<b>MIEIC</b>).</p>
+
+<p>Os meus interesses são muito variados, mas desde cedo a paixão pela
+tecnologia se manifestou, onde me interesse desde projectos de alto-nível como
+como desenvolvimento <i>web</i>, passando por projectos de gestão pura (bases
+de dados, e gestão de informação) até projectos de baixo nível como robótica e
+visão por computador.
+</p>
+
+<p>
+A nível mais pessoal sou um leitor voraz de literatura variada e gosto de
+praticar várias modalidades desportivas.
+</p>
+</div>
+<div class="clear"></div>

@@ -1,0 +1,17 @@
+<h2>Projectos:</h2>
+
+<p>Estes são alguns dos projectos que desenvolví em ambiente académico ou a
+título individual:</p>
+<h3>Projectos Académicos</h3>
+<div id="academic">
+</div>
+<h3>Projectos Individuais</h3>
+<div id="personal">
+<b>MESHO</b>
+<p>Website para o Mestrado em Engenharia de Segurança e Higiene Ocupacionais</p>
+<p><a href="http://paginas.fe.up.pt/~mesho/">link</a></p>
+<b>Caderno d'Argolas</b>
+<p>Website para o centro de estudo Caderno d'Argolas</p>
+<p><a href="http://www.cadernodargolas.com">link</a></p>
+</div>
+
